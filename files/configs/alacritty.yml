@@ -1,0 +1,22 @@
+#import:
+  #- ~/AppData/Roaming/alacritty/something.yml
+
+window:
+  padding:
+    x: 6
+    y: 6
+  decorations_theme_variant: Dark # Dark | Light | None
+
+font:
+  normal:
+    family: Hack Nerd Font # W1X default: Consolas
+  size: 11.0
+
+cursor:
+  style:
+    shape: Beam # Block | Underline | Beam
+
+shell:
+  program: powershell
+  args:
+    - -NoLogo
