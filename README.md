@@ -1,18 +1,18 @@
-# What
+## What
 A project which teaches how to make a great opinionated customized Windows.
-# Motivation
+## Motivation
 M$ Windows sucks.
-# Goals
+## Goals
 1. Uncompromisity
 2. Performance
 3. Simplicity
 4. Security
 5. Privacy
-# Usage
+## Usage
 ### Installation
 1. Make the image (WIP)
 2. Install it normally
-2. Run in PowerShell as Admin
+2. Run in PowerShell as Admin:
 ```
 irm raw.githubusercontent.com/wwwsensor/super/master/super.ps1 |iex
 ```
